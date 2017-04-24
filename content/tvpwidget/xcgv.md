@@ -2,6 +2,6 @@
     "type": "solo",
     "title": "xcgv",
     "name": "xcgv",
-    "channelId": "",
+    "channelId": "85595609",
     "layout": "bootstrap"
 }
